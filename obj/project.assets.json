@@ -406,11 +406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\libs\\Carlton.Base.Client.State.Abstractions\\Carlton.Base.Client.State.Abstractions.csproj",
+      "projectUniqueName": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\Carlton.Base.Client.State.Abstractions\\Carlton.Base.Client.State.Abstractions.csproj",
       "projectName": "Carlton.Base.Client.State.Abstractions",
-      "projectPath": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\libs\\Carlton.Base.Client.State.Abstractions\\Carlton.Base.Client.State.Abstractions.csproj",
+      "projectPath": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\Carlton.Base.Client.State.Abstractions\\Carlton.Base.Client.State.Abstractions.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\libs\\Carlton.Base.Client.State.Abstractions\\obj\\",
+      "outputPath": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\Carlton.Base.Client.State.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

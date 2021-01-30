@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0NNp30fY3cYoncE8HV2cUs+T1O1uMA4kV17KIylc4pQcLjVa5MqNpFA4+eBDsRsj2FLgM3VVwhIiLMNE3SbgiA==",
+  "dgSpecHash": "gc/NvtFmoyDuGYH8542KUPnUbYi6UT7dokUUt8rLQx1Ig0dT210tnSxUDkIS3YCZULzzqgdrWtebeI8pSWBV0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\libs\\Carlton.Base.Client.State.Abstractions\\Carlton.Base.Client.State.Abstractions.csproj",
+  "projectFilePath": "C:\\Users\\nicho\\Documents\\code\\Project Carlton\\Carlton.Base.Client.State.Abstractions\\Carlton.Base.Client.State.Abstractions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",
