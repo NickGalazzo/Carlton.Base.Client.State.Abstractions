@@ -3,7 +3,7 @@ on:
   push:
     branches: ['master']
 jobs:
-  run-npm-build:
+  publish-package-on-build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkkout Files
@@ -14,3 +14,6 @@ jobs:
           dotnet-version: '5.0.101'
       - name: Build
         run: dotnet build
+      - name: Package
+        run: dotnet pack
+      
