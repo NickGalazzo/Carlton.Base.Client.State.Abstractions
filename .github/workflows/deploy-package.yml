@@ -13,4 +13,4 @@ jobs:
         with:
           dotnet-version: '5.0.101'
       - name: Build
-        run: dotnetBuild
+        run: dotnet build
