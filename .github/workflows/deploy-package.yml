@@ -20,4 +20,4 @@ jobs:
       - name: Package
         run: dotnet pack --configuration Release
       - name: Publish
-        run: dotnet nuget push bin/release/Carlton.Base.Client.State.Abstractions.1.0.0.nupkg --source https://nuget.pkg.github.com/nicholas.galazzo@gmail.com/index.json --api-key ${{ secrets.GITHUB_TOKEN }}
+        run: dotnet nuget push bin/Release/Carlton.Base.Client.State.Abstractions.1.0.0.nupkg --source https://nuget.pkg.github.com/nicholas.galazzo@gmail.com/index.json --api-key ${{ secrets.GITHUB_TOKEN }}
