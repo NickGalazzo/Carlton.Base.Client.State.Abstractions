@@ -16,4 +16,6 @@ jobs:
         run: dotnet build
       - name: Package
         run: dotnet pack --configuration Release
+      - name: Publish
+        run: dotnet nuget push "bin/Release/Carlton.Base.Client.State.Abstractions.1.0.0.nupkg"  --api-key ${{ secrets.GITHUB_TOKEN }} --source "github"
       
